@@ -18,7 +18,7 @@ Adding a date table to enhance time-based analysis and ensure efficient querying
 Establishing relationships between tables to enable complex data interactions and accurate reporting.
 
 ### Business Request
-Dashboard 1
+### Dashboard 1
 Customer Analysis
 Provide insights into the profit generated from male and female customers, and breaks down the average spending by customer age groups, showing which age groups are most profitable. 
 
@@ -31,21 +31,21 @@ Details the top-selling and most profitable products, as well as product return 
 
 ![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/fa0731a284b065863ee366687f0e2f5029d63695/..png)
 
-Dashboard 2 
+### Dashboard 2 
 Store Budget vs Revenue: Presents a comparison of revenue vs. target for each store, which helps in understanding which stores are under or over-performing against their targets.
 
 Month-by-Month Analysis: Offers a detailed month-by-month breakdown of total revenue and targets, highlighting variances. This can be important for financial planning and performance management. 
 
 ![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/6faeb56a13d483780a50705747452224cc8a2a7d/....png)
 
-Dashboard 3 
+### Dashboard 3 
 Quarterly Revenue Analysis: Shows revenue generated per quarter against the average, providing a quick view of performance relative to the norm. 
 
 Weekday/Weekend Revenue Analysis: Gives a comparison of revenue generated on weekdays versus weekends, which can help in making staffing and operational decisions.
 
 Monthly Revenue vs Target: Tracks monthly performance against goals, which is fundamental for short-term financial planning and adjustments.
 
-![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/3d51ff59d414cbb224e9aa53dc53fbe8ddfc4f97/....png)
+![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/093d08ba92304ad80b0eca524c23571570d23f8b/....png)
 
 ### Key Insights
 The numbers tell a vibrant story of success and opportunity. With a robust total revenue of $5.4M, a profit margin of $2.3M, and an impressive profitability rate of 42.18%, the business is thriving. Contributions to this success are nearly balanced across genders, with male sales at 51.47% and female sales closely behind at 48.53%. Interestingly, the 50-plus age group emerges as a powerhouse demographic, driving $915K in revenue. Leading the sales force is John Brown, who secured $8.5K in individual contributions, while Mondays ($342.9K) and Thursdays ($340.7K) shine as the most profitable days. Among product categories, Soft Drinks dominate with $718K in sales, followed by Sports Drinks at $417K.
