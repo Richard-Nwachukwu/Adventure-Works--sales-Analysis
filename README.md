@@ -29,7 +29,7 @@ Profitability by Weekday: Analyzes which days of the week generate the most prof
 Product Analysis 
 Details the top-selling and most profitable products, as well as product return and refund rates. This is critical for inventory management and identifying which products are most valuable to the business. 
 
-## image
+![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/fa0731a284b065863ee366687f0e2f5029d63695/..png)
 
 Dashboard 2 
 Store Budget vs Revenue: Presents a comparison of revenue vs. target for each store, which helps in understanding which stores are under or over-performing against their targets.
