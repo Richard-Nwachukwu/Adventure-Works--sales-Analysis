@@ -36,7 +36,7 @@ Store Budget vs Revenue: Presents a comparison of revenue vs. target for each st
 
 Month-by-Month Analysis: Offers a detailed month-by-month breakdown of total revenue and targets, highlighting variances. This can be important for financial planning and performance management. 
 
-## image
+![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/6faeb56a13d483780a50705747452224cc8a2a7d/....png)
 
 Dashboard 3 
 Quarterly Revenue Analysis: Shows revenue generated per quarter against the average, providing a quick view of performance relative to the norm. 
