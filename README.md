@@ -45,7 +45,7 @@ Weekday/Weekend Revenue Analysis: Gives a comparison of revenue generated on wee
 
 Monthly Revenue vs Target: Tracks monthly performance against goals, which is fundamental for short-term financial planning and adjustments.
 
-## image
+![image alt](https://github.com/Richard-Nwachukwu/Adventure-Works--sales-Analysis/blob/3d51ff59d414cbb224e9aa53dc53fbe8ddfc4f97/....png)
 
 ### Key Insights
 The numbers tell a vibrant story of success and opportunity. With a robust total revenue of $5.4M, a profit margin of $2.3M, and an impressive profitability rate of 42.18%, the business is thriving. Contributions to this success are nearly balanced across genders, with male sales at 51.47% and female sales closely behind at 48.53%. Interestingly, the 50-plus age group emerges as a powerhouse demographic, driving $915K in revenue. Leading the sales force is John Brown, who secured $8.5K in individual contributions, while Mondays ($342.9K) and Thursdays ($340.7K) shine as the most profitable days. Among product categories, Soft Drinks dominate with $718K in sales, followed by Sports Drinks at $417K.
